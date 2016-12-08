@@ -1,4 +1,4 @@
-ip,prefix,origin,count
+ip,prefix,origin
 118.0.0.0,12,4713
 118.100.0.0,16,4788
 118.100.0.0,17,4788

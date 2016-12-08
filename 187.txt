@@ -1,4 +1,4 @@
-ip,prefix,origin,count
+ip,prefix,origin
 187.0.0.0,20,28283
 187.0.0.0,21,28283
 187.0.0.0,22,28283

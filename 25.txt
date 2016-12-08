@@ -1,2 +1,2 @@
-ip,prefix,origin,count
+ip,prefix,origin
 25.240.0.0,21,199055
